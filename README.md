@@ -1,3 +1,1 @@
 # KubeLinterServer
-
-blablabla
