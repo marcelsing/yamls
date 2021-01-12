@@ -1,8 +1,1 @@
-# KubeLinterServer
-
-
-
-blabeadsd
-bla
-bla
-blabla
+# YAMLs for testing purposes
